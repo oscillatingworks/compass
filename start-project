@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# start-project generates a new project report in a new
+# directory, which contains a README.md where all the
+# report happens.
+
+set -e
+
+if [ $# -eq 0 ]; then
+    echo "No arguments supplied."
+    exit 1
+fi
+
+PROJECT=$1
+
+if [ -d "$PROJECT" ]; then
+	echo "$PROJECT already exists."
+	exit 1
+fi
+
+mkdir $PROJECT
+sed s/PROJECT_NAME/"$PROJECT"/g template.md > $PROJECT/README.md
