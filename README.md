@@ -3,7 +3,7 @@ compass
 
 ![compass](https://farm5.static.flickr.com/4102/4925267732_8b4a2cf887.jpg)
 
-![cc](http://i.creativecommons.org/l/by/2.0/80x15.png)
+[![cc](http://i.creativecommons.org/l/by/2.0/80x15.png)](http://creativecommons.org/licenses/by/2.0/)
 by [Calsidyrose](https://www.flickr.com/photos/calsidyrose/4925267732/)
 
 Here is where we take our compass, it starts oscillating and helps us finding
