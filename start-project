@@ -14,8 +14,8 @@ fi
 PROJECT=$1
 
 if [ -d "$PROJECT" ]; then
-	echo "$PROJECT already exists."
-	exit 1
+    echo "$PROJECT already exists."
+    exit 1
 fi
 
 mkdir $PROJECT
