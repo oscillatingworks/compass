@@ -19,6 +19,11 @@ To start reporting about a new project, just run `start-project PROJECT` and
 a new directory containing a `README.md` template will be generated. There you
 can write all of your updates about this project.
 
+Projects
+--------
+- [gore](https://github.com/oscillatingworks/compass/blob/master/gore) ⇒
+  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+
 Phases
 ------
 
