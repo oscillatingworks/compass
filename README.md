@@ -21,6 +21,12 @@ can write all of your updates about this project.
 
 Projects
 --------
+
+### Programming Languages
+- [wren](https://github.com/oscillatingworks/compass/blob/master/wren)⇒
+  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+
+### Development Tools
 - [gore](https://github.com/oscillatingworks/compass/blob/master/gore) ⇒
   ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
 
