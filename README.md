@@ -30,6 +30,14 @@ Projects
 - [gore](https://github.com/oscillatingworks/compass/blob/master/gore) ⇒
   ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
 
+### Algorithms / Protocols
+- [raft](https://github.com/oscillatingworks/compass/blob/master/raft) ⇒
+  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+
+### Databases
+- [rqlite](https://github.com/oscillatingworks/compass/blob/master/rqlite) ⇒
+  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+
 Phases
 ------
 
