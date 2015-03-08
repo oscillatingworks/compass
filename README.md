@@ -34,6 +34,10 @@ Projects
 - [raft](https://github.com/oscillatingworks/compass/blob/mk/raft) ⇒
   ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
 
+### Databases
+- [rqlite](https://github.com/oscillatingworks/compass/blob/mk/rqlite) ⇒
+  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+
 Phases
 ------
 
