@@ -38,6 +38,10 @@ Projects
 - [rqlite](https://github.com/oscillatingworks/compass/blob/master/rqlite) ⇒
   ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
 
+### Web Tools
+- [go-metainspector](https://github.com/oscillatingworks/compass/blob/master/go-metainspector) ⇒
+  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+
 Phases
 ------
 
