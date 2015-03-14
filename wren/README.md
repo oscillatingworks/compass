@@ -2,6 +2,9 @@ wren
 ====
 [![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
 
+We like the language, it's tiny and fun, though there's a technical boundary here,
+as have not been in touch with C/C++ for many years. We keep it as stalled for now.
+
 Author
 ------
 Robert Nystrom

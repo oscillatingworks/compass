@@ -24,43 +24,45 @@ Projects
 
 ### Programming Languages
 - [wren](https://github.com/oscillatingworks/compass/blob/master/wren)⇒
-  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+  ![](https://img.shields.io/badge/oscillating-works-lightgrey.svg?style=flat)
 
 ### Development Tools
 - [gore](https://github.com/oscillatingworks/compass/blob/master/gore) ⇒
-  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+  ![](https://img.shields.io/badge/oscillating-works-lightgrey.svg?style=flat)
 
 ### Algorithms / Protocols
 - [raft](https://github.com/oscillatingworks/compass/blob/master/raft) ⇒
-  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+  ![](https://img.shields.io/badge/oscillating-works-red.svg?style=flat)
 
 ### Databases
 - [rqlite](https://github.com/oscillatingworks/compass/blob/master/rqlite) ⇒
-  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+  ![](https://img.shields.io/badge/oscillating-works-green.svg?style=flat)
 
 ### Web Tools
 - [go-metainspector](https://github.com/oscillatingworks/compass/blob/master/go-metainspector) ⇒
-  ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)
+  ![](https://img.shields.io/badge/oscillating-works-green.svg?style=flat)
 
 Phases
 ------
 
 ![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat) ⇒
-Evaluation time. We like the project and start digging into it, listing good and bad stuff that might help us decide what to do next. 
+Evaluation time. We like the project and start digging into it, listing good and
+bad stuff that might help us decide what to do next. 
 
 ![](https://img.shields.io/badge/oscillating-works-lightgrey.svg?style=flat) ⇒
-Project evaluation or research work is somehow stalled. Further info on its respective
-report.
+Project evaluation or research work is somehow stalled. Further info on its
+respective report.
 
 ![](https://img.shields.io/badge/oscillating-works-red.svg?style=flat) ⇒
-For one reason or another, the project is discarded. We evaluated it and it just didn't work out. More info should be shown on the report.
+For one reason or another, the project is discarded. We evaluated it and it just didn't work out. More info might be shown on the report.
 
 ![](https://img.shields.io/badge/oscillating-works-green.svg?style=flat) ⇒
 After evaluating the project, we like it and are working on it. We keep in touch
 with the authors, so they can validate our contributions. 
 
 ![](https://img.shields.io/badge/oscillating-works-brightgreen.svg?style=flat) ⇒
-We evaluated the project, worked with it, came to an agreement with author an became official maintainers. Yay, this is an oscillatingproject!
+We evaluated the project, worked with it, came to an agreement with author an
+became official maintainers. Yay, this is an oscillatingproject!
 
 License
 -------

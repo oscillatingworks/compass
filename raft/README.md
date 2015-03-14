@@ -1,6 +1,10 @@
 raft
-============
-[![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+====
+[![](https://img.shields.io/badge/oscillating-works-red.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+
+After evaluating the project, we found important points against choosing
+it as the one we want to put our time, effort and ideas on. Thus, we decided
+to discard it.
 
 Author
 ------
@@ -41,6 +45,11 @@ Haskell implementation of the Raft distributed consensus protocol.
 - Project in very early stage
 - Need to learn Haskell
 - Need to learn Raft
+- It's a protocol implementation, you cannot really make the difference compared
+  to other implementations or offer something new and better, you have to stick
+  to the specification.
+- Only Haskell devs can use it, reducing drastically the number of potential
+  user that can get interest.
 
 Further comments
 ----------------

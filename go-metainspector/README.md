@@ -1,6 +1,8 @@
 go-metainspector
 ================
-[![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+[![](https://img.shields.io/badge/oscillating-works-green.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+
+We are taking `go-metainspector` as our first in-house project.
 
 Author
 ------
