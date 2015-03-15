@@ -1,6 +1,9 @@
 gore
 ====
-[![](https://img.shields.io/badge/oscillating-works-blue.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+[![](https://img.shields.io/badge/oscillating-works-lightgrey.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+
+We like this tool and will keep an eye on how it evolves, but we will not
+work actively on it for now, so we can focus on other open projects.
 
 Author
 ------
