@@ -1,6 +1,6 @@
 go-metainspector
 ================
-[![](https://img.shields.io/badge/oscillating-works-grey.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+[![](https://img.shields.io/badge/oscillating-works-lightgrey.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
 
 At the end, we are *not* taking `go-metainspector` as our first in-house project.
 

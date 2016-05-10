@@ -40,7 +40,7 @@ Projects
 
 ### Web Tools
 - [go-metainspector](https://github.com/oscillatingworks/compass/blob/master/go-metainspector) ⇒
-  ![](https://img.shields.io/badge/oscillating-works-grey.svg?style=flat)
+  ![](https://img.shields.io/badge/oscillating-works-lightgrey.svg?style=flat)
 
 Phases
 ------
