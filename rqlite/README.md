@@ -1,9 +1,9 @@
 rqlite
 ======
-[![](https://img.shields.io/badge/oscillating-works-green.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
+[![](https://img.shields.io/badge/oscillating-works-red.svg?style=flat)](https://github.com/oscillatingworks/compass#phases)
 
-We like this project and want to start working on it. Currently we are getting a
-deeper understanding on how it works and thinking on ways to contribute. 
+We started contributing to this project, but our commit to it didn't persist, and
+author moved on without our help. It's discarded.
 
 Author
 ------
